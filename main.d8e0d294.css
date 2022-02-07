@@ -5046,3 +5046,27 @@ label {
   line-height: 2;
   padding: 20px;
 }
+.contact-info li {
+  list-style-type: none;
+}
+.contact-info {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  padding-right: 20px;
+}
+.contact-info li {
+  cursor: pointer;
+}
+.flex {
+  display: flex;
+}
+.justify-content {
+  justify-content: center;
+}
+.padding-left {
+  padding-left: 10px;
+}
+.small-font {
+  font-size: 1.5rem;
+}
